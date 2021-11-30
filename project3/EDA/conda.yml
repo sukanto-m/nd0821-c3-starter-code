@@ -1,0 +1,6 @@
+name: eda
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+- pandas-profiling=2.11.0  
